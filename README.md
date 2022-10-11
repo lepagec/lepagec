@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lepagec
+- 👋 Hi, I’m Caleigh
 - 👀 I’m interested in hiking, playing any sort of game, exploring outdoors, downhill skiing, computer networks
 - 🌱 I’m currently learning how to automate tasks on a computer network with Ansible and Python
 - 💞️ I’m looking to collaborate on Any cool network automation/statistic gathering projects
